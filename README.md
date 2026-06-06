@@ -1,2 +1,2 @@
-# Joshua Claude Adams
-Création d'un blog d'écrivain en HTML à déployer plus tard sur Wordpress.
+# Jose_COHEN_ecrivain
+Template du blog d'un écrivain.
