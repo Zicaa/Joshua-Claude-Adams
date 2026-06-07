@@ -1,2 +1,2 @@
-# Joshua_Claude_Adams_ecrivain
-Template du blog d'un écrivain.
+# Joshua_Claude_Adams
+Chroniques littéraires du veilleur de la dernière salle.
